@@ -1,0 +1,39 @@
+1)open-source distributed version control system 
+
+2)false
+
+3)git --version
+
+4)--global
+
+5)git config user.email
+
+   git add –all
+
+
+6)git status
+
+7)git init
+
+8)false
+
+9) git commit -m ""
+
+10)git commit -m "New email":
+
+11)git log
+
+12)A separate version of the main repository
+
+13)git branch "new-email"
+
+14)git checkout new-email
+
+15)
+
+
+
+
+
+
+
